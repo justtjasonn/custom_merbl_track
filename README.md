@@ -39,6 +39,10 @@
   <img width="994" height="649" alt="Screenshot 2026-10-19 103615" src="https://github.com/user-attachments/assets/073f4092-c330-444b-a648-a578ef1a3789" />
 </details>
 
+# Process
+
+The 3 marbles are released on the top, then it rolls down a curved track to the funnel, where it spins then enters 2 revolution spiral one by one. The marbles get carried down to another funnel, now in a box shape. Right after that a plinko track with 7 pins and uneven walls is waiting for them. It finally enters a squiggly track then arrives at the ending platform.
+
 # Credits
 
 - Guide - [@karnxx](https://github.com/karnxx)
