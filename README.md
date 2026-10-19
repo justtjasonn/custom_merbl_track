@@ -38,3 +38,8 @@
 
   <img width="994" height="649" alt="Screenshot 2026-10-19 103615" src="https://github.com/user-attachments/assets/073f4092-c330-444b-a648-a578ef1a3789" />
 </details>
+
+# Credits
+
+- Guide - [@karnxx](https://github.com/karnxx)
+- Hack Club half life - [Hackclub](https://hackclub.com/) , [Half Life](https://halflife.hackclub.com)
