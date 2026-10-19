@@ -11,7 +11,7 @@
 
   Plinko track:
 
-    <img width="396" height="592" alt="Screenshot 2026-10-18 224031" src="https://github.com/user-attachments/assets/44f14ea6-0bde-478e-9a09-83988baea6ac" />
+  <img width="396" height="592" alt="Screenshot 2026-10-18 224031" src="https://github.com/user-attachments/assets/44f14ea6-0bde-478e-9a09-83988baea6ac" />
 
   
 </details>
